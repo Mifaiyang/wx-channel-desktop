@@ -1,0 +1,7 @@
+out/
+*.exe
+*.zip
+config.yaml
+hardware_fingerprint.json
+logs/
+downloads/
